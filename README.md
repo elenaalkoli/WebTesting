@@ -5,4 +5,4 @@ https://docs.google.com/spreadsheets/d/1f2UjWQvz09QWZ0ilTMCXz1Qzkz5iAkoi/htmlvie
 
 
 Чек-лист тестирования https://currency.com/
-https://docs.google.com/spreadsheets/d/1wRVP9uF7tAPJSYbOJ_XOLGvESLrg6iXDEFX0l4euWeo/edit#gid=0
+https://docs.google.com/spreadsheets/d/1wRVP9uF7tAPJSYbOJ_XOLGvESLrg6iXDEFX0l4euWeo/edit?usp=sharing
