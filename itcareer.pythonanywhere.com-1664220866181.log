@@ -1,0 +1,3 @@
+/favicon.ico:1          Failed to load resource: the server responded with a status of 404 (NOT FOUND)
+itcareer.pythonanywhere.com/:1 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+itcareer.pythonanywhere.com/:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
