@@ -1,0 +1,18 @@
+www-embed-player.js:789          GET https://googleads.g.doubleclick.net/pagead/id net::ERR_BLOCKED_BY_CLIENT
+gl @ www-embed-player.js:789
+dl @ www-embed-player.js:776
+(anonymous) @ www-embed-player.js:1273
+rf @ www-embed-player.js:388
+ks @ www-embed-player.js:1270
+Gk @ www-embed-player.js:1289
+Cs @ www-embed-player.js:1294
+Ds @ www-embed-player.js:1295
+(anonymous) @ www-embed-player.js:1749
+(anonymous) @ oV8yjHsV5WA:7
+www-embed-player.js:1563          GET https://static.doubleclick.net/instream/ad_status.js net::ERR_BLOCKED_BY_CLIENT
+Bv @ www-embed-player.js:1563
+yv @ www-embed-player.js:1560
+xv @ www-embed-player.js:1559
+Gv @ www-embed-player.js:1568
+(anonymous) @ www-embed-player.js:1750
+(anonymous) @ oV8yjHsV5WA:7

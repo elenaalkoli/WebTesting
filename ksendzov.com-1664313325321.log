@@ -1,0 +1,77 @@
+www-embed-player.js:789          GET https://googleads.g.doubleclick.net/pagead/id net::ERR_BLOCKED_BY_CLIENT
+gl @ www-embed-player.js:789
+dl @ www-embed-player.js:776
+(anonymous) @ www-embed-player.js:1273
+rf @ www-embed-player.js:388
+ks @ www-embed-player.js:1270
+Gk @ www-embed-player.js:1289
+Cs @ www-embed-player.js:1294
+Ds @ www-embed-player.js:1295
+(anonymous) @ www-embed-player.js:1749
+(anonymous) @ oV8yjHsV5WA:7
+www-embed-player.js:1563          GET https://static.doubleclick.net/instream/ad_status.js net::ERR_BLOCKED_BY_CLIENT
+Bv @ www-embed-player.js:1563
+yv @ www-embed-player.js:1560
+xv @ www-embed-player.js:1559
+Gv @ www-embed-player.js:1568
+(anonymous) @ www-embed-player.js:1750
+(anonymous) @ oV8yjHsV5WA:7
+base.js:6768          POST https://play.google.com/log?format=json&hasfast=true&authuser=0 401
+g.k.send @ base.js:6768
+Oea @ base.js:597
+nfa @ base.js:632
+r @ base.js:6784
+g.k.flush @ base.js:6785
+Ri.flush @ base.js:6787
+g.k.lG @ base.js:6746
+Vf @ base.js:388
+g.k.dispatchEvent @ base.js:6696
+g.k.C6 @ base.js:6741
+setTimeout (async)
+g.k.start @ base.js:6742
+cea @ base.js:527
+g.k.nh @ base.js:6751
+fea.nh @ base.js:6751
+d @ base.js:6793
+(anonymous) @ base.js:6794
+Promise.then (async)
+Wi.AJ @ base.js:6794
+(anonymous) @ base.js:786
+ya @ base.js:61
+next @ base.js:62
+(anonymous) @ base.js:69
+laa @ base.js:68
+g.A @ base.js:70
+Bga @ base.js:786
+(anonymous) @ base.js:791
+ya @ base.js:61
+next @ base.js:62
+(anonymous) @ base.js:69
+laa @ base.js:68
+g.A @ base.js:70
+zga @ base.js:791
+kk @ base.js:784
+yga @ base.js:773
+pHa @ base.js:3792
+(anonymous) @ base.js:3790
+Jv @ base.js:1719
+g.Kv @ base.js:1714
+(anonymous) @ base.js:3790
+g.k.ma @ base.js:7177
+zT.ma @ base.js:9608
+g.k.ma @ base.js:8622
+g.k.ma @ base.js:8696
+g.fY @ base.js:5428
+g.fY.create @ base.js:10189
+Jw.a.H @ www-embed-player.js:1703
+Jw @ www-embed-player.js:1704
+l.loadNewVideoConfig @ www-embed-player.js:1698
+(anonymous) @ www-embed-player.js:1696
+(anonymous) @ www-embed-player.js:747
+setTimeout (async)
+Xk @ www-embed-player.js:768
+Fw @ www-embed-player.js:1696
+$w @ www-embed-player.js:1737
+(anonymous) @ www-embed-player.js:1750
+(anonymous) @ oV8yjHsV5WA:7
+Show 19 more frames
